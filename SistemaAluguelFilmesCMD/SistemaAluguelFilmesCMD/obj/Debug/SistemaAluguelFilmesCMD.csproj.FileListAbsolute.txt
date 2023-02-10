@@ -1,0 +1,8 @@
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\bin\Debug\SistemaAluguelFilmesCMD.exe.config
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\bin\Debug\SistemaAluguelFilmesCMD.exe
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\bin\Debug\SistemaAluguelFilmesCMD.pdb
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\obj\Debug\SistemaAluguelFilmesCMD.csproj.AssemblyReference.cache
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\obj\Debug\SistemaAluguelFilmesCMD.csproj.SuggestedBindingRedirects.cache
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\obj\Debug\SistemaAluguelFilmesCMD.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\obj\Debug\SistemaAluguelFilmesCMD.exe
+E:\Desenvolvedor\A Cursos\Udemy\C#\SistemaAluguelFilmesCMD\SistemaAluguelFilmesCMD\obj\Debug\SistemaAluguelFilmesCMD.pdb
